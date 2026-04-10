@@ -96,7 +96,7 @@ This project aims to analyze mobile sales data to answer key business questions:
 
 ## 🧠 Key Takeaway
 
-*Data is only valuable when it helps identify what drives revenue and where to focus next.
+* Data is only valuable when it helps identify what drives revenue and where to focus next.
 
 
 ## 📸 Dashboard Preview
