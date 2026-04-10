@@ -1,15 +1,4 @@
-<img width="1293" height="732" alt="First_3_monthsales(cash)" src="https://github.com/user-attachments/assets/056133ce-9772-4c5d-b9d7-6057b7e71c04" />Good. Now we stop posting for likes and build something that actually **gets you shortlisted**.
-
-I’m turning your project into a **proper GitHub case study** — the kind recruiters open, skim for 30 seconds, and think:
-👉 *“Okay, this person actually knows what they’re doing.”*
-
----
-
-# 🚀 🔥 COMPLETE GITHUB CASE STUDY (README)
-
-Copy-paste this into your `README.md` 👇
-
----
+🚀 Built an interactive Power BI dashboard analyzing 10K+ sales records to uncover revenue concentration, customer behavior patterns, and business insights.
 
 ## 📊 Motorola Sales Analytics Dashboard
 
