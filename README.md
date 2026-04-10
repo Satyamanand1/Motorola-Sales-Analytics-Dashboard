@@ -96,16 +96,15 @@ This project aims to analyze mobile sales data to answer key business questions:
 
 ## 🧠 Key Takeaway
 
-Data is only valuable when it helps identify what drives revenue and where to focus next.
+*Data is only valuable when it helps identify what drives revenue and where to focus next.
 
 
-📸 Dashboard Preview
+## 📸 Dashboard Preview
 <img width="1294" height="733" alt="PowerBI_Dashboard" src="https://github.com/user-attachments/assets/223b77fc-e8e4-4bf3-9db2-f1f3f0f1da91" />
 
 
 
-
-🔗 Project Files
+## 🔗 Project Files
 
 * 📁 Dataset ([Mobile Sales Data.xlsx](https://github.com/user-attachments/files/26639381/Mobile.Sales.Data.xlsx)
 )
